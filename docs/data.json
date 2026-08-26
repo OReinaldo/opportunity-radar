@@ -1,0 +1,112 @@
+{
+  "updated_at": "2026-08-26T05:12:00+02:00",
+  "jobs": [
+    {
+      "id": "demo1",
+      "title": "Director Territorial Galicia - Business Development",
+      "company": "Claire Joster | People first",
+      "location": "Vigo, Galicia",
+      "mode": "Presencial",
+      "sector": "Empresarial",
+      "salary": "60.000–80.000 € + variable",
+      "published": "2026-08-18",
+      "url": "https://es.linkedin.com/jobs/view/director-territorial-galicia-business-development-at-claire-joster-people-first-4443683238",
+      "score": 95,
+      "reason": "Dirección territorial, equipos, P&L, KPIs, rentabilidad y estrategia.",
+      "keywords": [
+        "Director Territorial",
+        "Operations Management",
+        "P&L",
+        "KPIs",
+        "Strategic Planning",
+        "Continuous Improvement",
+        "Cost Optimization",
+        "Team Leadership"
+      ]
+    },
+    {
+      "id": "demo2",
+      "title": "Responsable de Operaciones - Proyecto Innovador",
+      "company": "HubTalent / cliente final",
+      "location": "Vigo, Galicia",
+      "mode": "Presencial",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "2026-08-17",
+      "url": "https://www.jobijoba.es/oferta-empleo/69/3b3a56924ada925b3c717c7ba00fd342",
+      "score": 92,
+      "reason": "Responsabilidad operativa, eficiencia, equipos, costes, calidad y mejora continua.",
+      "keywords": [
+        "Operations Manager",
+        "Plant Management",
+        "Lean",
+        "TPM",
+        "KPI Management",
+        "Cost Reduction",
+        "Digitalization"
+      ]
+    },
+    {
+      "id": "demo3",
+      "title": "Business Operations Manager",
+      "company": "RELP",
+      "location": "Remoto (España)",
+      "mode": "100% remoto",
+      "sector": "Empresarial",
+      "salary": "Competitivo",
+      "published": "2026-08-19",
+      "url": "https://es.trabajo.org/oferta-5301-04ad6f24800fb4de91c3404727c5f073",
+      "score": 93,
+      "reason": "Operaciones, estrategia, procesos, KPIs y coordinación transversal.",
+      "keywords": [
+        "Business Operations",
+        "Strategy",
+        "Process Optimization",
+        "KPI Management",
+        "PMO",
+        "Change Management"
+      ]
+    },
+    {
+      "id": "demo4",
+      "title": "Gestor Desportivo",
+      "company": "FC Porto",
+      "location": "Porto, Portugal",
+      "mode": "Presencial / por confirmar",
+      "sector": "Fútbol",
+      "salary": "No indicado",
+      "published": "2026-08-25",
+      "url": "https://pt.linkedin.com/jobs/view/gestor-desportivo-at-fc-porto-4458190224",
+      "score": 90,
+      "reason": "Gestión deportiva y club profesional; encaja especialmente con tu objetivo de salto al fútbol.",
+      "keywords": [
+        "Sports Management",
+        "Football Operations",
+        "Club Management",
+        "Project Management",
+        "Strategy",
+        "Sports Business"
+      ]
+    },
+    {
+      "id": "demo5",
+      "title": "Ejecutivo/a de Cuentas – Coordinación y Activación Comercial",
+      "company": "RC Celta",
+      "location": "Vigo, Galicia",
+      "mode": "Presencial / híbrido por confirmar",
+      "sector": "Fútbol",
+      "salary": "No indicado",
+      "published": "2026-08-25",
+      "url": "https://es.linkedin.com/jobs/view/ejecutivo-a-de-cuentas-coordinaci%C3%B3n-y-activaci%C3%B3n-comercial-at-celta-4458183199",
+      "score": 72,
+      "reason": "Entrada en el ecosistema del Celta; gestión de cuentas y proyectos, con componente comercial.",
+      "keywords": [
+        "Account Management",
+        "Project Management",
+        "Stakeholder Management",
+        "Sports Business",
+        "Business Development"
+      ]
+    }
+  ]
+}
