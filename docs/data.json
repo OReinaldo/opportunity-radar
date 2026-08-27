@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T05:12:00+02:00",
+  "updated_at": "2026-08-27T08:08:30.306200+00:00",
   "jobs": [
     {
       "id": "demo1",
@@ -25,6 +25,27 @@
       ]
     },
     {
+      "id": "demo3",
+      "title": "Business Operations Manager",
+      "company": "RELP",
+      "location": "Remoto (España)",
+      "mode": "100% remoto",
+      "sector": "Empresarial",
+      "salary": "Competitivo",
+      "published": "2026-08-19",
+      "url": "https://es.trabajo.org/oferta-5301-04ad6f24800fb4de91c3404727c5f073",
+      "score": 93,
+      "reason": "Operaciones, estrategia, procesos, KPIs y coordinación transversal.",
+      "keywords": [
+        "Business Operations",
+        "Strategy",
+        "Process Optimization",
+        "KPI Management",
+        "PMO",
+        "Change Management"
+      ]
+    },
+    {
       "id": "demo2",
       "title": "Responsable de Operaciones - Proyecto Innovador",
       "company": "HubTalent / cliente final",
@@ -44,27 +65,6 @@
         "KPI Management",
         "Cost Reduction",
         "Digitalization"
-      ]
-    },
-    {
-      "id": "demo3",
-      "title": "Business Operations Manager",
-      "company": "RELP",
-      "location": "Remoto (España)",
-      "mode": "100% remoto",
-      "sector": "Empresarial",
-      "salary": "Competitivo",
-      "published": "2026-08-19",
-      "url": "https://es.trabajo.org/oferta-5301-04ad6f24800fb4de91c3404727c5f073",
-      "score": 93,
-      "reason": "Operaciones, estrategia, procesos, KPIs y coordinación transversal.",
-      "keywords": [
-        "Business Operations",
-        "Strategy",
-        "Process Optimization",
-        "KPI Management",
-        "PMO",
-        "Change Management"
       ]
     },
     {
@@ -106,6 +106,89 @@
         "Stakeholder Management",
         "Sports Business",
         "Business Development"
+      ]
+    },
+    {
+      "id": "cc35c0b57aa55f49",
+      "title": "Remote ERP Transformation PMO Lead (Spain)",
+      "company": "Talan Group",
+      "location": "Andalucía",
+      "mode": "100% remoto",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "",
+      "url": "https://www.google.com/search?ibp=htl;jobs&q=project+manager+PMO+remote+Spain&htidocid=AIj8QKGdXIo9hG_eAAAAAA%3D%3D&hl=es-ES&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQ6CMBQA0LhyA53-qA7UmLjgpIkxJhoJspMP_QKm7a9tSbiPsxdw5WLC8sYXfWbRJSPNgeCUpZA7NP7JTmNo2UB6u8OVUMLyYbE1qwSOw8-_O5IIkoC0VcRABs7MtaLFvgnB-kQI71Vc-zAuVVyxFmyo5F68uPQThW_QkVUYqNjuNn1sTb2e56hwrBx3djoPRqLqquGLf2nTrXmmAAAA&shmds=v1_ARwrE200nsJVG5ZInU9szYuX6vs2solaR38Sty0X7kpamgWpCg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=project+manager+PMO+remote+Spain&htidocid=AIj8QKGdXIo9hG_eAAAAAA%3D%3D",
+      "score": 69,
+      "reason": "Coincidencia automática con el perfil objetivo.",
+      "keywords": [
+        "Transformation",
+        "Cost",
+        "Pmo"
+      ]
+    },
+    {
+      "id": "be69d2cf13f656f4",
+      "title": "Service Delivery & Operations Manager (m/w/d) (Vigo)",
+      "company": "Jd. Com",
+      "location": "Vigo, Municipality of Vigo",
+      "mode": "Presencial",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "hace 4 días",
+      "url": "https://www.google.com/search?ibp=htl;jobs&q=operations+manager+director+Vigo+Galicia&htidocid=N7sSIJrFHfheMu4hAAAAAA%3D%3D&hl=es-ES&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NsQrCMBQAce0nOL1FsSKNCC51U0EQikPBtaTtM40keTFJa_tpuvpjWpcbbriLXpMoz9F1skI4opIdugHmcLHoeJBkPGTccIEOFpo9WR3D4ioFxSnsP2__aLHmUCOgtgoJ0MCJSCic7poQrE8Z814lwodfrEoq0owMltSzO5V-ROEb7tAqHrDYbNd9Yo1Yzs51AgfSY2-8rSBrjayk5UqGAej2t1-LW_OsvAAAAA&shmds=v1_ARwrE20AYAFH9EzV3KmqUF-GSfMFcgObw1g2BDyAQcUJRsmUUg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations+manager+director+Vigo+Galicia&htidocid=N7sSIJrFHfheMu4hAAAAAA%3D%3D",
+      "score": 65,
+      "reason": "Coincidencia automática con el perfil objetivo.",
+      "keywords": [
+        "Operations",
+        "Kpi"
+      ]
+    },
+    {
+      "id": "5c55f7d3e3d0c9ff",
+      "title": "Systems Operations Manager - €71.000 - €80.000 A Year - Remote (Vigo)",
+      "company": "EA First",
+      "location": "Vigo, Municipality of Vigo",
+      "mode": "100% remoto",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "hace 3 días",
+      "url": "https://www.google.com/search?ibp=htl;jobs&q=operations+manager+director+Vigo+Galicia&htidocid=hxemWhqnfsQL67G-AAAAAA%3D%3D&hl=es-ES&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_yWNQQ4BQRBFY-sIVrUShJkmEcKKBCuRkEispI3S09LT1aZKwtZ5nMDWAdzBSRg2Py__J_-VX6VyurqyYMawCJhrseQZ5tprgzm04H2799qRUurPffXjEWxQF_MSMxKE2toaqg9g_Hzw6Yx7DXsEzIJDAvQwIzIOK8NUJPAgjpldZFi-siRKKIvJ444u8ZF2XMSWU51jcFpw2-mqSxS8aVQnI5janKU4LHRNmJ-9TWzQzsoV6PBrP3koH-LSAAAA&shmds=v1_ARwrE20nhmnxaFOn_sXo7awzk6a6DaGOdNo3if0bH8r9xrEaTw&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations+manager+director+Vigo+Galicia&htidocid=hxemWhqnfsQL67G-AAAAAA%3D%3D",
+      "score": 61,
+      "reason": "Coincidencia automática con el perfil objetivo.",
+      "keywords": [
+        "Operations"
+      ]
+    },
+    {
+      "id": "a564038a6bca5adb",
+      "title": "Installation & Operations Manager",
+      "company": "JD.COM",
+      "location": "Pontevedra",
+      "mode": "Presencial",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "hace 3 días",
+      "url": "https://www.google.com/search?ibp=htl;jobs&q=operations+manager+director+Vigo+Galicia&htidocid=9Bqx9U8LZ6H9LFOkAAAAAA%3D%3D&hl=es-ES&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_x2NsQrCMBBAce3s5HSTg0MigktdRAVRKPUPyrU50kqai7ko_RF_xtUfs3V5vOm97D3L9hcvCZ3D1LGHJZSB4t8FCvRoKeZw-H7k8SSDYAioD44YyMOZ2Tpa7NqUguRaizhlx1jqGtVwr9lTzYO-cy0TKmkxUhhPVG2260EFb1fz60kdy2LK3dgnepGJ-APlipdImAAAAA&shmds=v1_ARwrE21-jwXIPGEHhqfMyPc98p8pdWDjz4ISQ2_ymkXkEvY3TA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=operations+manager+director+Vigo+Galicia&htidocid=9Bqx9U8LZ6H9LFOkAAAAAA%3D%3D",
+      "score": 61,
+      "reason": "Coincidencia automática con el perfil objetivo.",
+      "keywords": [
+        "Operations"
+      ]
+    },
+    {
+      "id": "e8164ec3d702410e",
+      "title": "Senior PMO Project Manager: Process",
+      "company": "alirahealth",
+      "location": "Barcelona",
+      "mode": "100% remoto",
+      "sector": "Empresarial",
+      "salary": "No indicado",
+      "published": "hace 7 días",
+      "url": "https://www.google.com/search?ibp=htl;jobs&q=project+manager+PMO+remote+Spain&htidocid=CXfqEtsUMVK1LSMwAAAAAA%3D%3D&hl=es-ES&shem=epsd1,rimspwouoe&shndl=37&shmd=H4sIAAAAAAAA_xXMMQrCMBSHcVx7AnF6s0MjgkvdujgVCx6gvKZ_kpaYF_Mi9C7exNWLSZdv-A1f9dlV7QNxlkx9d6c-ywJbqOPIDrnZwEK1ofb31dcbE9MEwjMFCCHSTcQFHK6-lKSNMaqhdlq4zLa28jQSMcpqFhl1y6CeM1LgguF8Oa11iu645zBn9uBQ_PZsOVsEifwHu5KwNZ4AAAA&shmds=v1_ARwrE23RBxkIkWGIGa4zbts1qxpMIchjtXRPqd40uOofNj9gFQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=project+manager+PMO+remote+Spain&htidocid=CXfqEtsUMVK1LSMwAAAAAA%3D%3D",
+      "score": 61,
+      "reason": "Coincidencia automática con el perfil objetivo.",
+      "keywords": [
+        "Pmo"
       ]
     }
   ]
